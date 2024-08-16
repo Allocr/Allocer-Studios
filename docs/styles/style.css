@@ -125,12 +125,14 @@ html{
    aside{
     display: none;
    }
+   .navback{
+    padding:0;
+   }
    main{
        width: 100%;
        padding: none;
    }
    html{
        font-size: 12px;
-       overflow-x: scroll;
    }
    }
