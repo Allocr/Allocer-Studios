@@ -129,6 +129,9 @@ html{
        width: 100%;
        padding: none;
    }
+   .oculus ol li{
+    padding: 20px;
+   }
    html{
        font-size: 12px;
    }
