@@ -125,9 +125,6 @@ html{
    aside{
     display: none;
    }
-   .navback{
-    padding:0;
-   }
    main{
        width: 100%;
        padding: none;
